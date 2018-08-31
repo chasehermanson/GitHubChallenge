@@ -21,4 +21,4 @@ Pizza | Burgers | Hotdogs
 __This is Bolded__  
 _This is Italicized_  
 ~~This is a strikethrough~~  
-*** 
+ 
